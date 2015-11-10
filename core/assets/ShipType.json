@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Manta",
+        "rot": 240,
+        "spd": 150,
+        "acc": 150,
+        "bodyStart": -4,
+        "bodyW": 2,
+        "bodyL": 8,
+        "wingStart": -10,
+        "wingEnd": 10,
+        "wingWidth": 12,
+        "wingR": 0.8,
+        "wingG": 0.2,
+        "wingB": 0.15
+    }
+]
